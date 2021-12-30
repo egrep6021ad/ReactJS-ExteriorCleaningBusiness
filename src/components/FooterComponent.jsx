@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import { styled } from '@mui/material/styles';
 import MuiGrid from '@mui/material/Grid';
-
+import logoNoBack from './logoNoBack.png'
 const Grid = styled(MuiGrid)(({ theme }) => ({
   width: '100%',
   ...theme.typography.body2,
@@ -16,7 +16,7 @@ const Grid = styled(MuiGrid)(({ theme }) => ({
 
 function VerticalDividerText() {
   const content = (
-    <div style={{ display:'flex',alignItems:'center',textAlign:'center',width:'100%',color:"#385F9B",fontFamily:'Lexend Deca', fontSize:'200%'}}>
+    <div style={{ display:'flex',alignItems:'center',textAlign:'center',width:'100%',color:"#385F9B",fontFamily:'Lexend Deca', fontSize:'100%'}}>
       <div>
 
 
@@ -28,6 +28,7 @@ function VerticalDividerText() {
         <p>
         Beyond the solutions we provide for our clients, we pride ourselves in the impact small businesses can have on the communities that help support them. Our city has been affected heavily by the housing crises sweeping across the nation. Our personal mission is to dynamically integrate prior servicemen and women through active job training & employment. By 2024 we hope to have trained and employed over 65 priorly homeless veterans living in the Atlanta Area. Through these means and others, we hope to stay actively engaged in preserving the beauty and value of our communities.  If you would like more information on ways to get involved, please email Admin@Advancedexteriorservices.com.
         </p>
+        <img style={{paddingTop:'15%',paddingLeft:'3%',paddingBottom:'5%',  width:'50%',height:'50%'}}src={logoNoBack} alt='premier atlanta exterior cleaning services'></img>
    </div>
     </div>
   );
@@ -43,11 +44,13 @@ function VerticalDividerText() {
 }
 
 function Copyright() {
-  return (
-    <Typography style={{color:"#385F9B",alignItems:'flex', display:'flex', justifyContent:'center',fontSize:'100%',fontFamily:'Amatic SC'}} color="text.secondary">
+  return (<div>
+    
+    <Typography style={{paddingLeft:'2%',color:"#385F9B",alignItems:'flex', display:'flex', justifyContent:'center',fontSize:'100%',fontFamily:'Amatic SC'}} color="text.secondary">
       {'Copyright © '}
         Advanced Exterior Services LLC 2022
     </Typography>
+    </div>
   );
 }
 
@@ -64,7 +67,7 @@ export default function StickyFooter() {
     >
       <CssBaseline />
       <Container component="main" sx={{mt: 8, mb: 2 }} maxWidth="md">
-        <Typography style={{color:"#385F9B",width:'100%',display:'flex', alignItems:'center', justifyContent:'center',fontFamily:'Bubblegum Sans', fontSize:'350%'}} variant="h2" component="h1" gutterBottom>
+        <Typography style={{color:"#385F9B",width:'100%',display:'flex', alignItems:'center', justifyContent:'center',fontFamily:'Bubblegum Sans', fontSize:'250%'}} variant="h2" component="h1" gutterBottom>
           Our Community
         </Typography>
           <div style={{width:'100%'}}>
