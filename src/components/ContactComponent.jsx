@@ -27,7 +27,7 @@ render() {
             component="span"
             style={{fontFamily:'Lexend Deca', color:"#385F9B"}}
             >
-            Feild Operations Manager
+            Field Operations Manager
         </Typography>
     <br></br>
     <p style={{paddingBottom:'0',fontFamily:'Lexend Deca', color:"#385F9B"}}>Commercial Services</p>

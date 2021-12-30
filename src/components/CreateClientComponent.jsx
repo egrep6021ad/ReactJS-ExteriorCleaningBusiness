@@ -123,7 +123,7 @@ class CreateClientComponent extends Component {
 
                                         <div className = "form-group">
                                             <label> Phone: </label>
-                                            <input placeholder="Exclude: dashes, parenthesis, spaces, etc." name="phone" className="form-control"
+                                            <input placeholder=" " name="phone" className="form-control"
                                              value={this.state.phone} onChange={this.changePhoneHandler}style={{borderColor:'#385F9B',borderWidth:"1px"}}/>
                                         </div>
 
@@ -135,7 +135,7 @@ class CreateClientComponent extends Component {
 
                                         <div className = "form-group">
                                             <label > <span style={{color:"red"}}>*</span> Service: </label>
-                                            <input placeholder="i.e 'roof', 'driveway', etc." name="toClean" className="form-control"
+                                            <input placeholder="'roof', 'driveway', etc." name="toClean" className="form-control"
                                              value={this.state.toClean} onChange={this.changeToCleanHandler} style={{borderColor:'#385F9B',borderWidth:"1px"}}/>
                                         </div>
 

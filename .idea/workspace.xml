@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30710b4b-9bae-40aa-afda-95196d9b2879" name="Changes" comment="">
+    <list default="true" id="30710b4b-9bae-40aa-afda-95196d9b2879" name="Changes" comment="font changes, page removal, crossing T's">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CardComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardComponent.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ContactComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FooterComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FooterComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HeaderComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/HeaderComponent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CreateClientComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CreateClientComponent.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640568269890</updated>
     </task>
+    <task id="LOCAL-00001" summary="font changes, page removal, crossing T's">
+      <created>1640895003679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640895003679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -51,5 +58,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="font changes, page removal, crossing T's" />
+    <option name="LAST_COMMIT_MESSAGE" value="font changes, page removal, crossing T's" />
   </component>
 </project>
