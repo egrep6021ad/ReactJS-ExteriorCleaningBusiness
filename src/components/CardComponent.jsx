@@ -10,6 +10,9 @@ import Typography from '@mui/material/Typography';
 import ShareIcon from '@mui/icons-material/Share';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import RequestQuoteOutlinedIcon from '@mui/icons-material/RequestQuoteOutlined';
+import highRise from './highRise.jpg'
+import residential from './residential.jpg'
+import hoa from './hoa.jpg'
 
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
@@ -39,7 +42,7 @@ export default function RecipeReviewCard() {
       <CardMedia
         component="img"
         height="400rem"
-        image="https://h2gomobilewash.com/app/uploads/2020/05/power-vs-pressure-washing-whats-the-difference.jpg"
+        src = {highRise}
         alt="Commercial Exterior Cleaning"
         style={{borderColor:'black',borderWidth:'20px'}}
       />
@@ -86,7 +89,7 @@ export default function RecipeReviewCard() {
       <CardMedia
         component="img"
         height="400rem"
-        image="https://media.istockphoto.com/photos/exterior-cleaning-work-in-progress-picture-id1336188285?k=20&m=1336188285&s=612x612&w=0&h=mE1FaZzb1pYoginfAaIDCf6Dzxk7E9WuZ70g_2IL6TQ="
+        src = {residential}
         alt="Commercial Pressure Washing"
       />
       <CardContent >
@@ -127,7 +130,7 @@ export default function RecipeReviewCard() {
       <CardMedia
         component="img"
         height="400rem"
-        image="https://www.linku.com.au/wp-content/uploads/2020/01/Gutter-Cleaning-Use-a-Garden-Hose-1024x683.jpeg"
+        src = {hoa}
         alt="Residential Pressure Washing"
       />
       <CardContent >
