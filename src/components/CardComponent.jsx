@@ -47,9 +47,7 @@ export default function RecipeReviewCard() {
         style={{borderColor:'black',borderWidth:'20px'}}
       />
       <CardContent style={{backgroundColor:'#FAF8F6'}}>
-        <Typography style={{alignItems:'center', display:'flex', justifyContent:'center',fontSize:'100%',color:"#385F9B",fontFamily:'Lexend Deca'}}>
-        "Our location hasn't looked this nice since we originally opened..."     </Typography> <span style={{marginLeft:'30%',color:"#385F9B"}}>-Union City 2020</span>
-       
+    
       </CardContent>
       <CardActions disableSpacing>
         <IconButton aria-label="request" href="/add-client">
@@ -92,10 +90,7 @@ export default function RecipeReviewCard() {
         src = {residential}
         alt="Commercial Pressure Washing"
       />
-      <CardContent >
-      <Typography style={{alignItems:'center', display:'flex', justifyContent:'center',fontSize:'100%',color:"#385F9B",fontFamily:'Lexend Deca'}}>
-      "I could not believe how quick, easy and affordable this entire process was going to be!" </Typography> <span style={{marginLeft:'20%',color:"#385F9B"}}>-Roswell 2021</span>
-      </CardContent>
+    
       <CardActions disableSpacing>
         <IconButton aria-label="request" href="/add-client">
         <RequestQuoteOutlinedIcon />
@@ -133,10 +128,7 @@ export default function RecipeReviewCard() {
         src = {hoa}
         alt="Residential Pressure Washing"
       />
-      <CardContent >
-      <Typography style={{alignItems:'center', display:'flex', justifyContent:'center',fontSize:'100%',color:"#385F9B",fontFamily:'Lexend Deca'}}>
-        "The overall value of our community exponentiated when..."  </Typography> <span style={{marginLeft:'30%',color:"#385F9B"}}>-Powder Springs 2020</span>
-      </CardContent>
+     
       <CardActions disableSpacing>
         <IconButton aria-label="request" href="/add-client">
         <RequestQuoteOutlinedIcon />

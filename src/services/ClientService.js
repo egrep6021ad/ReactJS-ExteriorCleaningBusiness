@@ -1,7 +1,6 @@
 import axios from 'axios';
 const CLIENT_API_BASE_URL = "http://3.139.28.195/"
 
-//This makes a REST API call!!!
 class ClientService {
      getClients(){
          return axios.get(CLIENT_API_BASE_URL);
