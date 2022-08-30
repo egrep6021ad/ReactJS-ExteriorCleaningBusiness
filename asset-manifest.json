@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactJS-ExteriorCleaningBusiness/static/css/main.a7e1aea7.chunk.css",
-    "main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/main.94165199.chunk.js",
-    "main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/main.94165199.chunk.js.map",
+    "main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/main.1bc0f995.chunk.js",
+    "main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/main.1bc0f995.chunk.js.map",
     "runtime-main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/runtime-main.cc228afa.js",
     "runtime-main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/runtime-main.cc228afa.js.map",
     "static/css/2.383c0125.chunk.css": "/ReactJS-ExteriorCleaningBusiness/static/css/2.383c0125.chunk.css",
-    "static/js/2.f31978c4.chunk.js": "/ReactJS-ExteriorCleaningBusiness/static/js/2.f31978c4.chunk.js",
-    "static/js/2.f31978c4.chunk.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/2.f31978c4.chunk.js.map",
+    "static/js/2.97f21b3d.chunk.js": "/ReactJS-ExteriorCleaningBusiness/static/js/2.97f21b3d.chunk.js",
+    "static/js/2.97f21b3d.chunk.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/2.97f21b3d.chunk.js.map",
     "static/js/3.60ae5463.chunk.js": "/ReactJS-ExteriorCleaningBusiness/static/js/3.60ae5463.chunk.js",
     "static/js/3.60ae5463.chunk.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/3.60ae5463.chunk.js.map",
     "index.html": "/ReactJS-ExteriorCleaningBusiness/index.html",
     "static/css/2.383c0125.chunk.css.map": "/ReactJS-ExteriorCleaningBusiness/static/css/2.383c0125.chunk.css.map",
     "static/css/main.a7e1aea7.chunk.css.map": "/ReactJS-ExteriorCleaningBusiness/static/css/main.a7e1aea7.chunk.css.map",
-    "static/js/2.f31978c4.chunk.js.LICENSE.txt": "/ReactJS-ExteriorCleaningBusiness/static/js/2.f31978c4.chunk.js.LICENSE.txt",
+    "static/js/2.97f21b3d.chunk.js.LICENSE.txt": "/ReactJS-ExteriorCleaningBusiness/static/js/2.97f21b3d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/ReactJS-ExteriorCleaningBusiness/static/media/SamSquad.3e08c573.jpg",
     "static/media/bHouse.cd23e7e1.jpg": "/ReactJS-ExteriorCleaningBusiness/static/media/bHouse.cd23e7e1.jpg",
     "static/media/brickHouse.e0dae6ee.jpg": "/ReactJS-ExteriorCleaningBusiness/static/media/brickHouse.e0dae6ee.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc228afa.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.f31978c4.chunk.js",
+    "static/js/2.97f21b3d.chunk.js",
     "static/css/main.a7e1aea7.chunk.css",
-    "static/js/main.94165199.chunk.js"
+    "static/js/main.1bc0f995.chunk.js"
   ]
 }
