@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactJS-ExteriorCleaningBusiness/static/css/main.a7e1aea7.chunk.css",
-    "main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/main.6592d4cb.chunk.js",
-    "main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/main.6592d4cb.chunk.js.map",
+    "main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/main.12f664ef.chunk.js",
+    "main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/main.12f664ef.chunk.js.map",
     "runtime-main.js": "/ReactJS-ExteriorCleaningBusiness/static/js/runtime-main.cc228afa.js",
     "runtime-main.js.map": "/ReactJS-ExteriorCleaningBusiness/static/js/runtime-main.cc228afa.js.map",
     "static/css/2.383c0125.chunk.css": "/ReactJS-ExteriorCleaningBusiness/static/css/2.383c0125.chunk.css",
@@ -34,6 +34,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.97f21b3d.chunk.js",
     "static/css/main.a7e1aea7.chunk.css",
-    "static/js/main.6592d4cb.chunk.js"
+    "static/js/main.12f664ef.chunk.js"
   ]
 }
