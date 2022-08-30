@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://egrep6021ad.github.io/ReactJS-Frontend-Small-Business",
+  "homepage": "https://egrep6021ad.github.io/ReactJS-ExteriorCleaningBusiness",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
